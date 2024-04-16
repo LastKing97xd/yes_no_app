@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const Color _customColor = Color(0xFF2A0761);
+const Color _customColor = Color(0xFF43693E);
 
 const List<Color> _colorThemes = [
   _customColor,
